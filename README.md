@@ -23,8 +23,8 @@ Pretrain weights can be found [here](https://github.com/joyrksht/LIZARD-RandLA-N
 - This project is funded by German Cancer Research (project no. 70116062) and the German Research Foundation (project no. 547369510).
 
 ## How to cite
-Please cite the article “Deep Learning-Based Segmentation of Acute Pulmonary Embolism in Cardiac CT images" by Ehsan Amini, Georg Hille, Janine Hürtgen, Alexey Surov,
-Sylvia Saalfeld, 2025. You can also copy the bibtex:
+Please cite the article “Geometric deep learning adapted to prediction of liver resection zone" by Joy Rakshit, Robert Kreher, Tobias Huber, Hauke Lang,
+Florentine Huettl, Sylvia Saalfeld, 2025. You can also copy the bibtex:
 
 ```biblatex
 @article{RAKSHIT2025111103,
